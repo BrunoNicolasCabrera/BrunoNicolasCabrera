@@ -12,7 +12,7 @@
   <a href="https://twitter.com/tu-perfil" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="40" height="40" style="filter: invert(100%);">
   </a>
-  <a href="https://github.com/tu-usuario" style="margin: 0 10px;">
+  <a href="https://github.com/BrunoNicolasCabrera" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="40" height="40" style="filter: invert(100%);">
   </a>
 
@@ -26,6 +26,6 @@
   </p>
 
   <h2 style="font-family: 'Roboto', sans-serif; font-size: 2em; color: #39ff14;">📈 Estadísticas de GitHub:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="border-radius: 10px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Lenguajes más usados" style="border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoNicolasCabrera&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="border-radius: 10px; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoNicolasCabrera&layout=compact&theme=radical" alt="Lenguajes más usados" style="border-radius: 10px;">
 </div>
